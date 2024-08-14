@@ -32,6 +32,10 @@ Recordings from the 2024 Headstarter Fellowship
 
   - **Angelica - AI Researcher at Stanford, Track B Lead** - ([Recording](https://www.youtube.com/watch?v=mnDvwWhImjQ))
 
+  - **Projects & Q/A Discussion with Faizan** - ([Recording](https://www.loom.com/share/79e982afe8c8476f83a4e9d9dad50b1b))
+
+  - **Projects & Coding Help with Ihsaan, Former Headstarter Fellow, SWE/ML Intern** - ([Recording](https://zoom.us/rec/play/BLUDzXIhB8JuNkC-Q7ggBK8h_XJyPvR5RBSOQHv9GCYs5LZ5HZZ8ISHPjKQ_kwBzMbjo8cafcv2yiS6b.2wTbNhi9d3BTnWUR?autoplay=true&startTime=1723342167000))
+
 ## Week 3:
   - **Pathways 2 Tech**
     - **Josh Payne**: Co-Founder with Tom Brady, Raised $200M from a16z, Stanford CS, & Yasin Ted Talk ([Recording](https://www.youtube.com/watch?v=8scPfhNPo6E))
