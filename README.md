@@ -2,6 +2,10 @@
 Recordings from the 2024 Headstarter Fellowship
 
 ## Week 1:
+  - **Fellowship Kickoff ft. Sajjaad Khader - SWE III @ Splunk** - ([Recording](https://www.youtube.com/watch?v=4piBu4f-mOA))
+
+  - **Fellowship Q&A, Jack O'Brien, Former Google Tech Lead Talk** - ([Recording](https://www.youtube.com/watch?v=NtnwUE1Bz3s))
+  
   - **Pathways 2 Tech** - ([Recording](https://www.youtube.com/watch?v=KPiTZNDWmbQ))
     - **Nabeel Alamgir** - CEO of LunchBox, Raised $100M VC
     - **Shariar Kabir** - CEO of Ruby YC 23, Ex-Salesforce (Hiring Fellows)
@@ -21,6 +25,12 @@ Recordings from the 2024 Headstarter Fellowship
     - **Nabihah** - SWE Intern Microsoft, CEO of SSQRD, CS Senior at Columbia
     - **Helal** - Senior SWE at Bloomberg, 8x Hackathon Winner, CSE @ NYU
     - **Farzy** - Founder of Viralvinny.ai, "lifewFarzy" IG/TT 5M+, DaPaul University
+
+  - **Rachid Flih - Co-Founder of Panora.dev & YC Tips** - ([Recording](https://www.loom.com/share/4516311ed0c3495697aa1a5d21503867))
+  
+  - **Farzy - Founder of Viralvinny.ai & Social Media Tips** - ([Recording](https://www.youtube.com/watch?v=LiNYI_U-ENY))
+
+  - **Angelica - AI Researcher at Stanford, Track B Lead** - ([Recording](https://www.youtube.com/watch?v=mnDvwWhImjQ))
 
 ## Week 3:
   - **Pathways 2 Tech**
