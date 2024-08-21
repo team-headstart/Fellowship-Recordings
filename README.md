@@ -42,3 +42,16 @@ Recordings from the 2024 Headstarter Fellowship
     - **Masoud**: Co-Founder of Rapha, Ex-Meta Design Lead & Kamran, AI Founder & Hedge Fund Intern - ([Recording](https://www.youtube.com/watch?v=YK3C7TR0MBY))
 
   - **RAG Workshop with OpenAI, LangChain, & Pinecone** - ([Recording](https://www.loom.com/share/75af4269ab66450e943160c199895aa7))
+
+## Week 4:
+
+  - **Hackathon Kickoff ft. 7 Companies who are Hiring** ([Recording](https://zoom.us/rec/share/Zbtc_c17RejY-GHjJqgbi7TInC1z1NerVwNyYivRx1hN52tn5JBPJtVtR3ip1Qs6.o4fq3BgKoW6qjJcI), Passcode: V?h2wMJ2) 
+
+## Week 5:
+
+  - **What Startups Look for in a Hire** - ([Recording](https://www.loom.com/share/762834f5156a4f949b515b734655d199))
+
+  - **Project Feedback from Jack, UI/UX Tips, & Pricing Strategies** - ([Recording](https://www.loom.com/share/94ac90674dfc479eb2f979f49b7027d3))
+
+
+
