@@ -53,5 +53,11 @@ Recordings from the 2024 Headstarter Fellowship
 
   - **Project Feedback from Jack, UI/UX Tips, & Pricing Strategies** - ([Recording](https://www.loom.com/share/94ac90674dfc479eb2f979f49b7027d3))
 
+  - **Hiring Hackathon 2 Kickoff** - ([Recording](https://www.loom.com/share/5b3846efe6d24e7f9288faba4abb5d2a))
+
+  - **Iqram - Co-Founder of Venmo & Jelly, Abdullah - Co-Founder of Pam Auto Talk** - ([Recording](https://www.loom.com/share/354e8640785c44d68fec93032995d506))
+
+  - **Hiring Hackathon 2 Top Demos** - ([Recording](https://www.loom.com/share/354e8640785c44d68fec93032995d506))
+
 
 
